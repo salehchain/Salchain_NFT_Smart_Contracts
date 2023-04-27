@@ -18,7 +18,7 @@ contract SalchainNFTWhiteList is ERC721Enumerable, Ownable {
    string public baseExtension = ".json";
    uint256 public costPre = 0.00002 ether;     // PreSale Price for NFT Mint
    uint256 public costPublic = 0.0002 ether;   // Public Sale Price for NFT Mint
-   uint256 public maxSupply = 20;              // Max total nft 
+   uint256 public maxSupply = 100;              // Max total nft 
 
 //new
     bool public publicMintActive = false;
