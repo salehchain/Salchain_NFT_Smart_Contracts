@@ -1,1 +1,21 @@
-
+{
+  "description": "Salchain colletion NFT- PANDA", 
+  "external_url": "", 
+  "image": "ipfs://QmPCz9uDyU6b4kYQm96h4eozynSN5oJqFjBMpjFRoK6fF3/1.png", 
+  "name": "Panda-1",
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Panda"
+    }, 
+    {
+      "trait_type": "Background", 
+      "value": "Blue"
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ] 
+}
